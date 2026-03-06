@@ -1,0 +1,13 @@
+[SME DASHBOARD]                      [Logout]
+
+Stats: [Open: 2] [Active: 1] [Completed: 0]
+
+[Post Request] [View Applications]
+
+Your Requests:
+----------------------------------------
+| Project Title                      |
+| Description...                      |
+| Status: Open | Budget: 200K | Apps: 3|
+| [Edit]                               |
+----------------------------------------

@@ -1,0 +1,12 @@
+[ADMIN DASHBOARD]                    [Logout]
+
+Total Users: 10 | Total Projects: 5
+
+Pending Assignments:
+----------------------------------------
+| Student | Project | SME | [Assign]   |
+----------------------------------------
+
+Recent Activity:
+[LOG] User login - 10:30
+[LOG] Project created - 10:25

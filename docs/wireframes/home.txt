@@ -1,0 +1,15 @@
+[LOGO]                     [Login] [Register]
+
+==================================================
+|           WELCOME TO MUSANZE SKILL-SHARE       |
+|                                                 |
+|   [Stat 1]    [Stat 2]    [Stat 3]             |
+|   SMEs       Students    Projects               |
+|                                                 |
+|   [Get Started Button]                          |
+==================================================
+
+How It Works:
+1. Post Your Need
+2. Students Apply
+3. Collaborate & Build

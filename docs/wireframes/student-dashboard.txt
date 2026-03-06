@@ -1,0 +1,13 @@
+[STUDENT DASHBOARD]                  [Logout]
+
+Stats: [Pending: 1] [Active: 2] [Completed: 0]
+
+[Browse Projects]
+
+Active Projects:
+----------------------------------------
+| Project Title                      |
+| SME: Business Name                  |
+| [======= 40% =======]               |
+| [Update Progress]                    |
+----------------------------------------

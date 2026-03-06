@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swo
+*.swp
+
+# Project specific
+config/database.php
+*.log
+*.sql
+
+# Environment
+.env
+.env.local
+
+# Logs
+logs/
+*.log
